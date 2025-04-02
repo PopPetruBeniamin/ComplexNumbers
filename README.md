@@ -26,7 +26,7 @@ The program offers a set of interactive commands:
 ---
 
 ## 🏗️ Code Structure
-The program is structured into two main files:
+The program is structured into:
 - 📂 **Complex.h / Complex.cpp**: Defines the `Complex` class with its attributes and methods.
 - 📂 **Vector.h / Vector.cpp**: Handles vector-related operations involving complex numbers.
 - 📂 **Console.h / Console.cpp**: Manages user interaction, command handling, and program logic.
